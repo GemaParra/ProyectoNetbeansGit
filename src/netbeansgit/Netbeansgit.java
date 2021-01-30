@@ -31,6 +31,7 @@ public class Netbeansgit {
             }
             //fin del programa
             System.out.print("\nFin del programa");
+            System.out.print("\nAdios :)");
     }
     
 }
